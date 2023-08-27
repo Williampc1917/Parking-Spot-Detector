@@ -34,7 +34,7 @@ The Parking Spot Tracker is designed to detect and monitor available parking spo
 1) Clone the repository:
 
 ```bash
-  git clone <repository_url>
+  git clone https://github.com/Williampc1917/Parking-Spot-Tracker.git
 ```
 2) Navigate to the project directory:
 
