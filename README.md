@@ -1,12 +1,12 @@
 
 # Parking Spot Detector
 
-The Parking Spot Tracker is designed to detect and monitor available parking spots using a live stream feed. It leverages the YOLOv8 object detection model for its operations and can notify users about parking availability in real-time.
+The Parking Spot Detector is designed to detect and monitor available parking spots using a live stream feed. It leverages the YOLOv8 object detection model for its operations and can notify users about parking availability in real-time.
 
 
 ## Demo
 
-![Demonstration of Parking Spot Tracker in action](URL_of_GIF)
+![Demonstration of Parking Spot Detector in action](URL_of_GIF)
 
 
 ## Features
@@ -87,7 +87,7 @@ Before you start, configure the config.json file:
     
 ## Design Considerations
 
-During the development of the Parking Spot Tracker, certain constraints and considerations influenced the design and implementation:
+During the development of the Parking Spot Detector, certain constraints and considerations influenced the design and implementation:
 
 - **Camera Stream Access**: Ideally, accessing the RTSP stream of the camera directly would have been the most efficient approach. However, due to administrative restrictions on the cameras, this was not feasible. As a workaround, the live feed was captured from a second monitor.
 ## License
